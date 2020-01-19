@@ -1,2 +1,7 @@
 # hello 我的
 hahahaha
+## Google Cloud Scince net
+sudo su
+yum install python-setuptools && easy_install pip
+pip install shadowsocks
+sudo ssserver -p 1082 -k 0793 -m rc4-md5 --user nobody -d start
