@@ -1,5 +1,6 @@
 ## Install enveriment
 yum install python-setuptools && easy_install pip
+
 pip install shadowsocks
 
 ## 如果要后台运行：
